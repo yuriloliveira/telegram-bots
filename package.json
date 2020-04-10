@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "node-telegram-bot-api": "^0.40.0"
+  },
+  "scripts": {
+    "deploy": "serverless deploy -v"
+  }
+}
